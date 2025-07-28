@@ -1,0 +1,1 @@
+* Use the -dev or -research version of the resumes
